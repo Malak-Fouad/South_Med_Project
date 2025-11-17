@@ -1,0 +1,24 @@
+Input: 
+Test Regular path:
+Bus capacity = 25 
+Bus capacity = 50
+Headway 10 to 30 step 5
+Demand for line => take maximum from 2 routes => vol max from line route data
+Cycle time  is  link run time 1st route + in link run time 2nd route + 4 x stops in both routes
+No Od Trips
+
+Output: is one excel file to each line has both routes
+
+Line Route Item
+Line Name
+Route Name
+Stop Points
+----------------------
+Line Route Data
+Line Name
+Route Name 
+Transport Code
+Length
+Link Run Time
+
+
